@@ -11,3 +11,9 @@ Natural_Language_Processing/Classify_Medical_Specialty_NLP_Huggingface_Transform
 7. Geospatial/data
 7. Geospatial/amazon-sagemaker-satellite-imagery-segmentation/__pycache__
 .ipynb_checkpoints 
+
+10. Generative_AI/4. Synthetic_Satellite/base
+10. Generative_AI/4. Synthetic_Satellite/EuroSAT
+10. Generative_AI/4. Synthetic_Satellite/trained_model
+10. Generative_AI/4. Synthetic_Satellite/=0.*.*
+10. Generative_AI/4. Synthetic_Satellite/train_dreambooth_lora.py.1
